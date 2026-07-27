@@ -1,12 +1,16 @@
-<h1 align="center">👋 Salut, je suis Armel Zion !</h1>
+<h1 align="center">Goy Gloux Armel Zion</h1>
 
 <p align="center">
-  🎓 Étudiant Bachelor Informatique • YNOV Nantes, France <br>
-  🌍 Originaire de Côte d'Ivoire • Basé à Nantes <br>
-  🚀 Futur entrepreneur tech & développeur full-stack <br>
-  🎯 Objectif : créer de la valeur, bâtir des entreprises, changer ma vie
-</p>
 
+Étudiant en Bachelor Informatique à Ynov Campus Nantes 🇫🇷
+
+Passionné par le développement logiciel, le développement web et les systèmes informatiques.
+
+Je développe des applications en Java, Go et JavaScript et je réalise des projets autour des bases de données, des API REST, de Linux et de Git.
+
+🎯 Actuellement à la recherche d'un stage en informatique afin de mettre en pratique mes compétences et continuer à apprendre au sein d'une équipe technique.
+
+</p>
 ---
 
 ## 🛠️ Tech Stack
