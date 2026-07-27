@@ -1,19 +1,15 @@
 <h1 align="center">Goy Gloux Armel Zion</h1>
 
 <p align="center">
-
-Étudiant en Bachelor Informatique à Ynov Campus Nantes 🇫🇷
-
-Passionné par le développement logiciel, le développement web et les systèmes informatiques.
-
-Je développe des applications en Java, Go et JavaScript et je réalise des projets autour des bases de données, des API REST, de Linux et de Git.
-
-🎯 Actuellement à la recherche d'un stage en informatique afin de mettre en pratique mes compétences et continuer à apprendre au sein d'une équipe technique.
-
+Bachelor Informatique • Ynov Campus Nantes
 </p>
----
 
-## 🛠️ Tech Stack
+<p align="center">
+Étudiant en informatique, je me forme au développement web et logiciel, aux bases de données, à Git, à Linux et aux systèmes informatiques.
+Je travaille sur des projets concrets en Java, Go, JavaScript et SQL, et je recherche un stage pour continuer à progresser dans un environnement technique.
+</p>
+
+---
 
 ## 🛠️ Technologies
 
@@ -36,71 +32,15 @@ Je développe des applications en Java, Go et JavaScript et je réalise des proj
 
 ## 📌 Projets
 
-### 🖥️ Forum – Application Web
-Application web permettant aux utilisateurs de créer un compte, publier des messages et interagir avec la communauté.
-
-**Technologies :** Go • SQL • HTML • CSS • JavaScript • Git
-
----
-
-### 🎵 Groupie Tracker
-Application web utilisant une API REST pour récupérer, traiter et afficher des informations sur des groupes de musique.
-
-**Technologies :** Go • API REST • HTML • CSS • JavaScript
-
----
-
-### 🎮 Hangman
-Développement d'une application web du jeu Hangman mettant en œuvre le développement back-end et front-end.
-
-**Technologies :** Go • HTML • CSS • JavaScript
-
----
-
-### 💾 – Système de sauvegarde automatisée
-Projet d'équipe consistant à concevoir un système de sauvegarde et de restauration automatisé sous Linux.
-
-**Technologies :** Linux • Git • Shell • Virtualisation
-
----
-
-### ⚡ Challenge 48h
-Développement collaboratif d'une solution informatique réalisée en équipe durant un challenge de 48 heures.
-
-**Technologies :** Git • JavaScript • Go
----
-
-## 🎯 Ce sur quoi je travaille maintenant
-
-- 🟡 **AWS Cloud Practitioner** — Certification en cours
-- 🟡 **Full-Stack Dev** — Montée en compétence (React + Node.js)
-- 🟢 **GitHub actif** — 1 commit par jour minimum
-- 🟢 **Réseau tech Nantes** — Construction active
-
----
-
-## 📊 Mon activité GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Armel-zion&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armel-zion&theme=radical" />
-</p>
+- **Forum** — Application web avec authentification, posts, commentaires et base de données.
+- **Groupie Tracker** — Application web utilisant une API pour afficher des données dynamiques.
+- **Hangman** — Jeu web développé dans le cadre du Bachelor.
+- **suivi..de projet** — Système de sauvegarde automatisée.
+- **Challenge 48h** — Projet collaboratif réalisé en temps limité.
+- **Challenge JavaScript** — Exercices et mini-projets pour renforcer les bases du front-end.
 
 ---
 
 ## 🤝 Me contacter
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/goy-gloux-armel-zion-024363377/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ton.email@exemple.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"L'argent vient de la valeur que je crée, pas du hasard."</i>
-</p>
+[LinkedIn](https://www.linkedin.com/in/goy-gloux-armel-zion-024363377/)
