@@ -34,14 +34,40 @@ Je développe des applications en Java, Go et JavaScript et je réalise des proj
 
 ---
 
-## 📌 Projets récents
+## 📌 Projets
 
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| [🛒 go-ecommerce-shop](https://github.com/Armel-zion/go-ecommerce-shop) | Plateforme e-commerce complète | Go, JavaScript |
-| [☕ cafe-rodesse-reservation](https://github.com/Armel-zion/cafe-rodesse-reservation) | Système de réservation café | HTML, CSS, JS |
-| [📋 tp-sql-galaxieat](https://github.com/Armel-zion/tp-sql-galaxieat) | Exercices SQL avancés | SQL |
+### 🖥️ Forum – Application Web
+Application web permettant aux utilisateurs de créer un compte, publier des messages et interagir avec la communauté.
 
+**Technologies :** Go • SQL • HTML • CSS • JavaScript • Git
+
+---
+
+### 🎵 Groupie Tracker
+Application web utilisant une API REST pour récupérer, traiter et afficher des informations sur des groupes de musique.
+
+**Technologies :** Go • API REST • HTML • CSS • JavaScript
+
+---
+
+### 🎮 Hangman
+Développement d'une application web du jeu Hangman mettant en œuvre le développement back-end et front-end.
+
+**Technologies :** Go • HTML • CSS • JavaScript
+
+---
+
+### 💾 Ydays – Système de sauvegarde automatisée
+Projet d'équipe consistant à concevoir un système de sauvegarde et de restauration automatisé sous Linux.
+
+**Technologies :** Linux • Git • Shell • Virtualisation
+
+---
+
+### ⚡ Challenge 48h
+Développement collaboratif d'une solution informatique réalisée en équipe durant un challenge de 48 heures.
+
+**Technologies :** Git • JavaScript • Go
 ---
 
 ## 🎯 Ce sur quoi je travaille maintenant
