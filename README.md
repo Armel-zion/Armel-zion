@@ -57,7 +57,7 @@ Développement d'une application web du jeu Hangman mettant en œuvre le dévelo
 
 ---
 
-### 💾 Ydays – Système de sauvegarde automatisée
+### 💾 – Système de sauvegarde automatisée
 Projet d'équipe consistant à concevoir un système de sauvegarde et de restauration automatisé sous Linux.
 
 **Technologies :** Linux • Git • Shell • Virtualisation
