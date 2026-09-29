@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230">
+  <defs>
+    <linearGradient id="ln" gradientUnits="userSpaceOnUse" x1="80" y1="0" x2="1120" y2="0"><stop offset="0" stop-color="#00f0ff"/><stop offset=".65" stop-color="#ff4fa3"/><stop offset="1" stop-color="#7b2ff7" stop-opacity=".2"/></linearGradient>
+    <filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+      .y{font-family:'Courier New',Consolas,monospace;font-weight:700;font-size:20px}
+      .t{font-size:14px;fill:#e8e9ff}.s{font-size:12px;fill:#8088b8}
+      .flow{stroke-dasharray:8 14;animation:f 1.2s linear infinite}@keyframes f{to{stroke-dashoffset:-22}}
+      .now{transform-origin:815px 110px;animation:r 1.8s ease-out infinite}@keyframes r{from{transform:scale(1);opacity:.8}to{transform:scale(3);opacity:0}}
+      .far{animation:w 3s ease-in-out infinite}@keyframes w{50%{opacity:.35}}
+    </style>
+  </defs>
+  <rect width="1200" height="230" rx="14" fill="#070a18"/>
+  <text x="30" y="36" font-family="'Courier New',monospace" font-size="14" fill="#00f0ff">// TRAJECTOIRE · 2021 ▸ 2090</text>
+
+  <line x1="80" y1="110" x2="1120" y2="110" stroke="url(#ln)" stroke-width="3"/>
+  <line x1="80" y1="110" x2="1120" y2="110" stroke="#ffffff" stroke-opacity=".5" stroke-width="2" class="flow"/>
+
+  <g>
+    <circle cx="140" cy="110" r="9" fill="#00f0ff" filter="url(#g)"/>
+    <text x="140" y="80" text-anchor="middle" class="y" fill="#00f0ff">2021</text>
+    <text x="140" y="146" text-anchor="middle" class="t">BTS Systèmes</text><text x="140" y="164" text-anchor="middle" class="t">électroniques &amp; info</text>
+    <text x="140" y="184" text-anchor="middle" class="s">CIFPRO · Abidjan</text>
+  </g>
+  <g>
+    <circle cx="365" cy="110" r="9" fill="#3fc8ff" filter="url(#g)"/>
+    <text x="365" y="80" text-anchor="middle" class="y" fill="#3fc8ff">2023</text>
+    <text x="365" y="146" text-anchor="middle" class="t">Cycle ingénieur</text><text x="365" y="164" text-anchor="middle" class="t">informatique</text>
+    <text x="365" y="184" text-anchor="middle" class="s">ENSIT · Abidjan</text>
+  </g>
+  <g>
+    <circle cx="590" cy="110" r="9" fill="#9b7bff" filter="url(#g)"/>
+    <text x="590" y="80" text-anchor="middle" class="y" fill="#9b7bff">2025</text>
+    <text x="590" y="146" text-anchor="middle" class="t">Bachelor Informatique</text><text x="590" y="164" text-anchor="middle" class="t">B1 · mention Bien</text>
+    <text x="590" y="184" text-anchor="middle" class="s">Nantes Ynov Campus</text>
+  </g>
+  <g>
+    <circle class="now" cx="815" cy="110" r="10" fill="none" stroke="#39ff88" stroke-width="2"/>
+    <circle cx="815" cy="110" r="10" fill="#39ff88" filter="url(#g)"/>
+    <text x="815" y="80" text-anchor="middle" class="y" fill="#39ff88">2027</text>
+    <text x="815" y="146" text-anchor="middle" class="t">Stage dès avril</text><text x="815" y="164" text-anchor="middle" class="t">+ alternance B3</text>
+    <text x="815" y="184" text-anchor="middle" class="s">▸ prochaine étape</text>
+  </g>
+  <g class="far">
+    <circle cx="1060" cy="110" r="9" fill="none" stroke="#ff4fa3" stroke-width="2" stroke-dasharray="3 3"/>
+    <text x="1060" y="80" text-anchor="middle" class="y" fill="#ff4fa3">2090</text>
+    <text x="1060" y="146" text-anchor="middle" class="t">Construire les</text><text x="1060" y="164" text-anchor="middle" class="t">systèmes du futur</text>
+    <text x="1060" y="184" text-anchor="middle" class="s">∞ apprentissage continu</text>
+  </g>
+</svg>
