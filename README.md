@@ -47,7 +47,7 @@
 
 ## `04` ▸ Trajectoire
 
-<img src="./assetstimeline.svg" width="100%" alt="Trajectoire 2021 → 2090"/>
+<img src="./assets/timeline.svg" width="100%" alt="Trajectoire 2021 → 2090"/>
 
 ## `05` ▸ Canal de communication
 
