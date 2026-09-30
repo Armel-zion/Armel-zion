@@ -23,7 +23,8 @@
   <text x="30" y="184" class="l" style="animation-delay:2.6s"><tspan class="d">[en charge…]</tspan><tspan class="o"> Docker · CI/CD · Cloud · Windows Server</tspan></text>
 
   <text x="30" y="220" class="l" style="animation-delay:3.3s"><tspan class="p">➜ </tspan><tspan class="k">~ </tspan><tspan class="o">./mission --status</tspan></text>
-  <text x="30" y="246" class="l" style="animation-delay:3.9s" filter="url(#g)"><tspan class="p">▸ stage </tspan><tspan class="o">2 à 6 mois dès le 05.04.2027   </tspan><tspan class="p">▸ alternance </tspan><tspan class="o">B3 · 09.2027   </tspan><tspan class="m">▸ Nantes</tspan></text>
+  <text x="30" y="246" class="l" style="animation-delay:3.9s" filter="url(#g)"><tspan class="p">▸ stage </tspan><tspan class="o">5 semaines
+    à 6 mois dès le 05.04.2027   </tspan><tspan class="p">▸ alternance </tspan><tspan class="o">B3 · 09.2027   </tspan><tspan class="m">▸ Nantes</tspan></text>
 
   <text x="30" y="280" class="l" style="animation-delay:4.5s"><tspan class="p">➜ </tspan><tspan class="k">~ </tspan><tspan class="c o">▌</tspan></text>
 </svg>
