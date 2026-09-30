@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="./assetsterminal.svg" width="100%" alt="Terminal : présentation, stack et mission"/>
+<img src="./assets/terminal.svg" width="100%" alt="Terminal : présentation, stack et mission"/>
 
 ## `01` ▸ Protocole de présentation
 
@@ -47,7 +47,7 @@
 
 ## `04` ▸ Trajectoire
 
-<img src="./assets/assets/timeline.svg" width="100%" alt="Trajectoire 2021 → 2090"/>
+<img src="./assetstimeline.svg" width="100%" alt="Trajectoire 2021 → 2090"/>
 
 ## `05` ▸ Canal de communication
 
