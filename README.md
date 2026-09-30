@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Armel Zion — Développeur Fullstack & DevOps en formation"/>
+<img src="./assets/assets/header.svg" width="100%" alt="Armel Zion — Développeur Fullstack & DevOps en formation"/>
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="./assets/terminal.svg" width="100%" alt="Terminal : présentation, stack et mission"/>
+<img src="./assets/assets/terminal.svg" width="100%" alt="Terminal : présentation, stack et mission"/>
 
 ## `01` ▸ Protocole de présentation
 
@@ -27,12 +27,12 @@
 
 <p align="left">
 <b>Maîtrisé</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,python,fastapi,go,java,mysql,linux,bash,git,github&perline=14" alt="Technologies maîtrisées"/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,python,fastapi,go,java,mysql,linux,bash,git,github,docker&perline=15" alt="Technologies maîtrisées"/>
 </p>
 
 <p align="left">
 <b>En formation cette année</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,azure,nginx,windows&perline=14" alt="Technologies en formation"/>
+<img src="https://skillicons.dev/icons?i=githubactions,azure,nginx,windows&perline=14" alt="Technologies en formation"/>
 </p>
 
 ## `03` ▸ Missions accomplies
@@ -42,12 +42,12 @@
 | 🚢 [**Bataille navale**](https://github.com/Emerick2/Bataille-navale)<br/><sub>Jeu multijoueur au tour par tour · équipe de 3</sub> | `React` `TypeScript` `React Router` | Routage et navigation, design partagé, pages d'accueil et de création de partie, revue de pull requests |
 | 🗝️ [**Carte blanche**](https://github.com/Emerick2/Carte-blanche)<br/><sub>API d'un escape game · équipe de 3 · en cours</sub> | `Python` `FastAPI` `Pydantic` | Classes `Histoire` et `Chapitre`, routes `/histoire` avec gestion des erreurs 404 |
 | 🐝 **TalkToBee**<br/><sub>Rencontres linguistiques · Ydays · 17/20</sub> | `.NET 10` `SQL` `JWT/OAuth` `GitHub Actions` `Azure` | Participation au développement en équipe, MVP présenté devant un jury |
-| 💬 **Forum**<br/><sub>Application web complète</sub> | `Go` `SQL` `JavaScript` | Authentification, CRUD, droits utilisateurs, recherche interne |
+| 💬 [**Forum**](https://github.com/WayeNot/forum-project)<br/><sub>Application web complète · équipe de 3 · 16,5/20</sub> | `Go` `SQLite` `JavaScript` `Docker` | 1er contributeur : cahier des charges, structure du projet Go, migrations SQLite, sessions, **conteneurisation Docker** (Dockerfile multi-stage + docker-compose) |
 | 🎯 **Hangman Web**<br/><sub>Jeu du pendu · 18,57/20</sub> | `Go` `HTML/CSS` | Serveur web, requêtes GET/POST |
 
 ## `04` ▸ Trajectoire
 
-<img src="./assets/timeline.svg" width="100%" alt="Trajectoire 2021 → 2090"/>
+<img src="./assets/assets/timeline.svg" width="100%" alt="Trajectoire 2021 → 2090"/>
 
 ## `05` ▸ Canal de communication
 
