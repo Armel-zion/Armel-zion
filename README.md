@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/assets/header.svg" width="100%" alt="Armel Zion — Développeur Fullstack & DevOps en formation"/>
+<img src="./assets/header.svg" width="100%" alt="Armel Zion — Développeur Fullstack & DevOps en formation"/>
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="./assets/assets/terminal.svg" width="100%" alt="Terminal : présentation, stack et mission"/>
+<img src="./assetsterminal.svg" width="100%" alt="Terminal : présentation, stack et mission"/>
 
 ## `01` ▸ Protocole de présentation
 
