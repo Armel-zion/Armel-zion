@@ -21,19 +21,21 @@
 - 🛰️ **Parcours** — BTS Systèmes électroniques et informatiques → 1re année de cycle ingénieur → Bachelor Informatique à Nantes Ynov Campus (**B1 validé avec mention Bien**)
 - ⚡ **Aujourd'hui** — je développe des applications avec **React, TypeScript et Python/FastAPI**
 - 🔭 **En cours de chargement** — mise en production : **Linux, Docker, CI/CD, cloud**
-- 🧪 **Laboratoire perso** — [**DevWrapped**](https://github.com/Armel-zion/devwrapped) : transformer un profil GitHub en carte partageable (FastAPI + React/TypeScript)
+- 🧪 **Laboratoire perso** — [**DevWrapped**](https://github.com/Armel-zion/devwrapped) : la carte d'identité d'un développeur, générée depuis son GitHub (API FastAPI prête, interface React/TypeScript en cours)
 
 ## `02` ▸ Arsenal technologique
 
 <p align="left">
-<b>Maîtrisé</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,python,fastapi,go,java,mysql,linux,bash,git,github,docker&perline=15" alt="Technologies maîtrisées"/>
+<b>Utilisé en projet</b> <sub>— chaque technologie est liée à une mission ci-dessous</sub><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,python,fastapi,go,docker,git,github&perline=15" alt="Technologies utilisées en projet : React, TypeScript, JavaScript, HTML, CSS, Python, FastAPI, Go, Docker, Git, GitHub"/>
 </p>
 
 <p align="left">
-<b>En formation cette année</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=githubactions,azure,nginx,windows&perline=14" alt="Technologies en formation"/>
+<b>En apprentissage</b> <sub>— objectif : maîtrise en fin de B2 (juin 2027)</sub><br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,java,linux,bash,githubactions,azure,nginx,windows&perline=15" alt="Technologies en apprentissage : MySQL, Java, Linux, Bash, GitHub Actions, Azure, Nginx, Windows Server"/>
 </p>
+
+<sub>`// mise à jour à chaque module terminé : une technologie monte d'un cran quand un projet le prouve`</sub>
 
 ## `03` ▸ Missions accomplies
 
